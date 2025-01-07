@@ -2,7 +2,7 @@
 
 A running log of things I'm learning to build strong core software engineering skills while also expanding my knowledge of [adjacent technologies](http://www.effectiveengineer.com/blog/master-adjacent-disciplines) a little bit [everyday](https://jamesclear.com/continuous-improvement).
 
-**Updated**: Once a month | **Current** **Focus**: Generative AI
+**Updated**: Once a month | **Current** **Focus**: Python Programming & Linux 
 
 ## Core Skills
 
